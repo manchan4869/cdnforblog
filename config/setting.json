@@ -1,0 +1,29 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://blog.manchan.ml",
+    "email": "2445937718@qq.com",
+    "platform": "coding",
+    "privateKey": "",
+    "repository": "Gridea",
+    "token": "c5d40f7e23ba34b3860ae98ab1aa009f1f5385ef",
+    "tokenUsername": "ZlLOxgInFK",
+    "username": "manchan"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
